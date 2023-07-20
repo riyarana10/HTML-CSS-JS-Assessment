@@ -1,0 +1,19 @@
+.active {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    width: 50%;
+}
+
+#add-btn{
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4%;
+    background-color:darkgreen;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+}
