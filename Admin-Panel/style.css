@@ -1,0 +1,89 @@
+.heading {
+    text-align: center;
+    padding: 20px;
+}
+
+#std-form {
+    display: none;
+    margin: 0 43%;
+}
+
+#student-table {
+    margin: auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+}
+
+#add-btn {
+    /* margin: 2% 46%; */
+    padding: 10px;
+    border-style: none;
+    border-radius: 5%;
+    background-color: #cbf3f0;
+    color: black;
+    margin: 20px;
+}
+
+#save-btn {
+    background-color: green;
+    border-style: none;
+    color: white;
+    border-radius: 5%;
+    margin: 5% 0 0 25%;
+}
+
+#cancel-btn {
+    background-color: red;
+    border-style: none;
+    color: white;
+    border-radius: 5%;
+    margin: 5% 10% 0 0;
+}
+
+thead {
+    background-color: beige;
+}
+
+tr.pass {
+    background-color: #66CD00;
+    color: black
+}
+
+tr.fail {
+    background-color: red;
+    color: white;
+}
+
+tr:hover {
+    background-color: beige;
+    color: black;
+}
+
+#cta-fail {
+    padding: 10px;
+    border-style: none;
+    background-color: #cbf3f0;
+    border-radius: 5%;
+    margin: 20px;
+}
+
+#cta-pass {
+    padding: 10px;
+    border-style: none;
+    background-color: #cbf3f0;
+    border-radius: 5%;
+    margin: 20px
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

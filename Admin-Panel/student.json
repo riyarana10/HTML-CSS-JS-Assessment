@@ -1,0 +1,28 @@
+[{
+    "name": "Riya Rana",
+    "email": "riya@example.com",
+    "phone": "1234567890",
+    "percentage": 85,
+    "hobbies": ["Reading", "TT", "Traveling"]
+},
+{
+    "name": "Ishita Chauhan",
+    "email": "ishita@example.com",
+    "phone": "2345678901",
+    "percentage": 70,
+    "hobbies": ["sleeping", "TT"]
+},
+{
+    "name": "Aayush",
+    "email": "aayush@example.com",
+    "phone": "7345678901",
+    "percentage": 23,
+    "hobbies": ["sleeping"]
+},
+{
+    "name": "Chetna gupta",
+    "email": "chetna@example.com",
+    "phone": "9345678901",
+    "percentage": 70,
+    "hobbies": ["badminton", "TT", "Traveling", "binge watch"]
+}]
